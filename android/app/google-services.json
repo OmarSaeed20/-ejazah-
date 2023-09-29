@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149598843824",
+    "project_id": "ejazah-388a1",
+    "storage_bucket": "ejazah-388a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149598843824:android:33cff2a806c799d3539c75",
+        "android_client_info": {
+          "package_name": "com.visooft.ejazah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149598843824-ngpuj9415jajs56sv5o2a89aveus25nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGjiB7GU7aCEHey3zTLwhBeV7Q4eUDQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149598843824-ngpuj9415jajs56sv5o2a89aveus25nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
